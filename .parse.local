@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "sports"
+    },
+    "sports": {
+      "applicationId": "QEUxkgvQIWxrDlMud6qddb3h9o9Sst7MMwrQtuD4"
+    }
+  }
+}
