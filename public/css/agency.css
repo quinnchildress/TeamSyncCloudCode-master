@@ -63,11 +63,12 @@ h6 {
 }
 
 .img-circle {
-    width: 120px;
-    height: 120px;
+    width: 300px;
+    height: 300px;
     position: relative;
     overflow: hidden;
     border-radius: 20%;
+   
 }
 
 .bg-light-gray {
