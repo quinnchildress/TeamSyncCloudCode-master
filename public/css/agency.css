@@ -9,11 +9,15 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+
 .text-muted {
     color: #777;
 }
 
-
+.text-muted1 {
+    color: #777;
+    text-align: left;
+}
 .text-primary 
 {
     color: #FF0000;
@@ -63,11 +67,20 @@ h6 {
 }
 
 .img-circle {
-    width: 300px;
+    width: 200px;
     height: 300px;
     position: relative;
     overflow: hidden;
-    border-radius: 20%;
+    border-radius: 10%;
+   
+}
+
+.img-circle2 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10%;
    
 }
 
